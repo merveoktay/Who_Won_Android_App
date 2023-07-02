@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WhoWon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kategoriler</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="menu_raffles">Tüm Çekilişler</string>
+    <string name="menu_free_participation">Bedava Katılım</string>
+    <string name="menu_car_win">Araba Kazan</string>
+    <string name="menu_win_phone_tablet">Telefon &amp; Tablet Kazan</string>
+    <string name="menu_win_vacation">Tatil Kazan</string>
+    <string name="menu_what_i_follow">Takip Ettiklerim</string>
+    <string name="menu_beginners">Yeni Başlayanlar</string>
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_raffles"
+            android:icon="@drawable/raffles_icon"
+            android:title="@string/menu_raffles" />
+        <item
+            android:id="@+id/nav_beginners"
+            android:icon="@drawable/follow_icon"
+            android:title="@string/menu_beginners" />
+        <item
+            android:id="@+id/nav_free_participation"
+            android:icon="@drawable/free_icon"
+            android:title="@string/menu_free_participation" />
+        <item
+            android:id="@+id/nav_car_win"
+            android:icon="@drawable/car_icon"
+            android:title="@string/menu_car_win" />
+        <item
+            android:id="@+id/nav_win_phone_tablet"
+            android:icon="@drawable/phone_and_tablet_icon"
+            android:title="@string/menu_win_phone_tablet" />
+        <item
+            android:id="@+id/nav_win_vacation"
+            android:icon="@drawable/vacation_icon"
+            android:title="@string/menu_win_vacation" />
+        <item
+            android:id="@+id/nav_what_i_follow"
+            android:icon="@drawable/follow_icon"
+            android:title="@string/menu_what_i_follow" />
+    </group>
+</menu>
